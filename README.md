@@ -6,7 +6,7 @@ The "Alias" engine is powered by vbscript, powershell, batch, and C#.
 
 ### Essence
 
-To Download applicable _code blocks_, [**_click here_**](https://motion-i.github.io/Clamp-CC-x.1-License-Registry/)
+To Download applicable _code blocks_, [**click here**](https://motion-i.github.io/Clamp-CC-x.1-License-Registry/)
 
 ```markdown
   ::  INFORMATION  ::
