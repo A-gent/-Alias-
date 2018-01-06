@@ -4,34 +4,26 @@
 
 The "Alias" engine is powered by vbscript, powershell, batch, and C#.
 
-### Markdown
+### Essence
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To Download applicable _code blocks_, [**_click here_**](https://motion-i.github.io/Clamp-CC-x.1-License-Registry/)
 
 ```markdown
-To Download applicable code blocks, [**click here**](https://motion-i.github.io/Clamp-CC-x.1-License-Registry/)
+  ::  INFORMATION  ::
 
-# Header 1
-## Header 2
-### Header 3
+ARCHITECTURE: fLoat.Remap
+NOMENCLATURE: x64
+VERSION:1.09-1.90
+SYSTEM: Windows 10
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Credits
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/A-gent/Alias_Engine_launcherSystem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[commLink](https://help.github.com/categories/github-pages-basics/)
