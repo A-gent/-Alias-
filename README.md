@@ -6,7 +6,8 @@ The "Alias" engine is powered by vbscript, powershell, batch, and C#.
 
 ### Essence
 
-To Download applicable _code blocks_, [**click here**](https://motion-i.github.io/Clamp-CC-x.1-License-Registry/)
+To Download applicable _code blocks_, select from versioning options below:
+[**v1.09**](https://help.github.com/categories/github-pages-basics/)
 
 ```markdown
   ::  INFORMATION  ::
@@ -22,7 +23,8 @@ SYSTEM: Windows 10
 
 ### Credits
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/A-gent/Alias_Engine_launcherSystem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For Jared my love, Paul, Dylan, and Blake, my brothers and sisters.
+For anyone who has supported me over the years.
 
 ### Support or Contact
 
