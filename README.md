@@ -15,9 +15,6 @@ To Download applicable _code blocks_, select from versioning options below:
 
 .
 
-.
-
-.
 
 
 ```markdown
