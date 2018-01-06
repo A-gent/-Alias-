@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the "Alias" landing page
 
-You can use the [editor on GitHub](https://github.com/A-gent/Alias_Engine_launcherSystem/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  You can use the follow link to [view the License](https://motion-i.github.io/Clamp-CC-x.1-License-Registry/) this work(s) is registered with.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The "Alias" engine is powered by vbscript, powershell, batch, and C#.
 
 ### Markdown
 
