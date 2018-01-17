@@ -28,10 +28,15 @@ SYSTEM: Windows 10
 
 ### Essence 
   :  _ENGINE_ INFORMATION  :
+  
 CURRENT VERSION:1.09-1.90
+
 ARCHITECTURE: fLoat.Remap
+
 NOMENCLATURE: x64
+
 SYSTEM: Windows 10
+
 
 
 ⠀⠀⠀
