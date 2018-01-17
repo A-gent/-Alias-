@@ -7,14 +7,18 @@ The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
 
 ### <p align="center"> <sub><sup>_ENGINE_ INFORMATION</sup></sub></p>
-| CURRENT VERSION  | Second Header |  Second Header  | Second Header |
+|   | Second Header |  Second Header  | Second Header |
 | -------------------- | -------------------- |
 | 1.09-1.90  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
 
-
+| CURRENT VERSION | ARCHITECTURE  | Cool  |
+| --------------- |:-------------:| -----:|
+| col 3 is        | right-aligned | $1600 |
+| col 2 is        | centered      |   $12 |
+| zebra stripes   | are neat      |    $1 |
   
 
 
