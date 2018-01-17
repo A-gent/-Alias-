@@ -4,6 +4,23 @@
 
 The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
+
+
+
+### _ENGINE_ INFORMATION
+  
+<sub><sup>CURRENT VERSION:1.09-1.90</sup></sub>
+
+<sub><sup>ARCHITECTURE: fLoat.Remap</sup></sub>
+
+<sub><sup>NOMENCLATURE: x64</sup></sub>
+
+<sub><sup>SYSTEM: Windows 10</sup></sub>
+
+
+
+
+
 ### Essence
 
 To Download applicable _code blocks_, select from versioning options below:
@@ -25,17 +42,6 @@ SYSTEM: Windows 10
 **.**
 
 ⠀⠀⠀
-
-
-### _ENGINE_ INFORMATION
-  
-<sub><sup>CURRENT VERSION:1.09-1.90</sup></sub>
-
-<sub><sup>ARCHITECTURE: fLoat.Remap</sup></sub>
-
-<sub><sup>NOMENCLATURE: x64</sup></sub>
-
-<sub><sup>SYSTEM: Windows 10</sup></sub>
 
 
 
