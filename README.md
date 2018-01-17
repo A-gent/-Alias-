@@ -38,6 +38,7 @@ NOMENCLATURE: x64
 SYSTEM: Windows 10
 
 
+<sub><sup>combining the two tags</sup></sub>
 
 ⠀⠀⠀
 
