@@ -7,16 +7,16 @@ The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
 
 ### <p align="center"> <sub><sup>_ENGINE_ INFORMATION</sup></sub></p>
-<p align="center"> | First Header  | Second Header |</p>
-<p align="center"> | ------------- | ------------- |</p>
-<p align="center"> | Content Cell  | Content Cell  |</p>
-<p align="center"> | Content Cell  | Content Cell  |</p>
+| <sub><sup>CURRENT VERSION</sup></sub>  | Second Header |  Second Header  | Second Header |
+| ------------- | ------------- |
+| 1.09-1.90  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
 
   
-<sub><sup>CURRENT VERSION:1.09-1.90</sup></sub>
+
 
 <sub><sup>ARCHITECTURE: fLoat.Remap</sup></sub>
 
