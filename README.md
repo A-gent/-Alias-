@@ -14,11 +14,9 @@ The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
 
 
-| CURRENT VERSION | ARCHITECTURE  | Cool  |
+| CURRENT VERSION |  ARCHITECTURE | Cool  |
 | --------------- |:-------------:| -----:|
-| col 3 is        | right-aligned | $1600 |
-| col 2 is        | centered      |   $12 |
-| zebra stripes   | are neat      |    $1 |
+| 1.09-1.90       | right-aligned | $1600 |
   
 
 
