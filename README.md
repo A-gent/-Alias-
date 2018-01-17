@@ -11,17 +11,17 @@ The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
 
 
-| CURRENT VERSION |     ARCHITECTURE       |       NOMENCLATURE     |          SYSTEM        |
-| --------------- |:----------------------:| ----------------------:| ----------------------:|
-| 1.09-1.90       |   `fLoat.Remap(2018)`  |       32bit-64bit      |        Windows 10      |
+|  CURRENT VERSION  |     ARCHITECTURE       |       NOMENCLATURE       |          SYSTEM        |
+| ----------------- |:----------------------:| ------------------------:| ----------------------:|
+| `1.09-1.90`       |   `fLoat.Remap(2018)`  |       `32bit-64bit`      |       `Windows 10`     |
   
 
 
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+//Markdown | Less | Pretty
+//--- | --- | ---
+//*Still* | `renders` | **nicely**
+//1 | 2 | 3
 
 
 
