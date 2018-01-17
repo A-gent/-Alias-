@@ -32,12 +32,11 @@ To Download applicable _code blocks_, select from versioning options below:
 **.**
 
 ```markdown
-  ::  _BLOCK INFORMATION_  ::
+  ::  BLOCK INFORMATION  ::
 
-_CURRENT VERSION_:1.09-1.90
-_ARCHITECTURE_: fLoat.Remap
-_NOMENCLATURE_: x64
-SYSTEM: Windows 10
+::  CURRENT VERSION:1.09-1.90  ::  
+::  ARCHITECTURE: fLoat.Remap  ::  
+::  NOMENCLATURE: x64  ::  
 ```
 
 **.**
