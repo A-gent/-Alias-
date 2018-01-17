@@ -7,16 +7,13 @@ The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
 
 ### <p align="center"> <sub><sup>_ENGINE_ INFORMATION</sup></sub></p>
-|   | Second Header |  Second Header  | Second Header |
-| -------------------- | -------------------- |
-| 1.09-1.90  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 
-| CURRENT VERSION |  ARCHITECTURE | Cool  |
-| --------------- |:-------------:| -----:|
-| 1.09-1.90       | right-aligned | $1600 |
+
+| CURRENT VERSION |     ARCHITECTURE     |       NOMENCLATURE     |
+| --------------- |:--------------------:| ----------------------:|
+| 1.09-1.90       |   fLoat.Remap(2018)  |       32bit-64bit      |
   
 
 
