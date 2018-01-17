@@ -7,10 +7,10 @@ The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
 
 ### <p align="center"> <sub><sup>_ENGINE_ INFORMATION</sup></sub></p>
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+<p align="center"> | First Header  | Second Header |</p>
+<p align="center"> | ------------- | ------------- |</p>
+<p align="center"> | Content Cell  | Content Cell  |</p>
+<p align="center"> | Content Cell  | Content Cell  |</p>
 
 
 
