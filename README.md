@@ -26,8 +26,8 @@ SYSTEM: Windows 10
 
 ⠀⠀⠀
 
-### Essence 
-  :  _ENGINE_ INFORMATION  :
+
+### _ENGINE_ INFORMATION
   
 CURRENT VERSION:1.09-1.90
 
