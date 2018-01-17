@@ -7,7 +7,7 @@ The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
 
 
-### _ENGINE_ INFORMATION
+### <sub><sup>_ENGINE_ INFORMATION</sup></sub>
   
 <sub><sup>CURRENT VERSION:1.09-1.90</sup></sub>
 
