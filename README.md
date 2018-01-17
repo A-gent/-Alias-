@@ -17,11 +17,7 @@ The "Core" engine is powered by vbscript, powershell, batch, and C#.
   
 
 
-<sub><sup>ARCHITECTURE: fLoat.Remap</sup></sub>
 
-<sub><sup>NOMENCLATURE: x64</sup></sub>
-
-<sub><sup>SYSTEM: Windows 10</sup></sub>
 
 
 
