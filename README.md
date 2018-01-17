@@ -12,13 +12,12 @@ To Download applicable _code blocks_, select from versioning options below:
 **.**
 
 ```markdown
-  ::  INFORMATION  ::
+  ::  _BLOCK INFORMATION_  ::
 
-CURRENT VERSION:1.09-1.90
-ARCHITECTURE: fLoat.Remap
-NOMENCLATURE: x64
+_CURRENT VERSION_:1.09-1.90
+_ARCHITECTURE_: fLoat.Remap
+_NOMENCLATURE_: x64
 SYSTEM: Windows 10
-
 ```
 
 **.**
@@ -27,15 +26,13 @@ SYSTEM: Windows 10
 
 ⠀⠀⠀
 
-```markdown
-  ::  INFORMATION  ::
-
+### Essence 
+  :  _ENGINE_ INFORMATION  :
 CURRENT VERSION:1.09-1.90
 ARCHITECTURE: fLoat.Remap
 NOMENCLATURE: x64
 SYSTEM: Windows 10
 
-```
 
 ⠀⠀⠀
 
