@@ -6,7 +6,7 @@ The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
 
 
-### <p align="center"> <sub><sup>_ENGINE_ INFORMATION</sup></sub></p>
+###   <sub><sup>_ENGINE_ INFORMATION</sup></sub>
 
 
 
