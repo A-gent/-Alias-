@@ -34,7 +34,7 @@ To Download applicable _code blocks_, select from versioning options below:
 ```markdown
   ::  BLOCK INFORMATION  ::
 
-:  CURRENT VERSION:1.09-1.90 
+:  CURRENT VERSION: 1.09-1.90 
 :  ARCHITECTURE: fLoat.Remap  
 :  NOMENCLATURE: x64  
 ```
