@@ -1,6 +1,6 @@
 ## Welcome to the "Core" Engine landing page
 
-  You can use the follow link to [view the License](https://motion-i.github.io/Clamp-CC-x.1-License-Registry/) this work(s) is registered with.
+  You can use the following link to [view the License](https://motion-i.github.io/Clamp-CC-x.1-License-Registry/) this work(s) is registered with.
 
 The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
