@@ -29,16 +29,16 @@ SYSTEM: Windows 10
 
 ### _ENGINE_ INFORMATION
   
-CURRENT VERSION:1.09-1.90
+<sub><sup>CURRENT VERSION:1.09-1.90</sup></sub>
 
-ARCHITECTURE: fLoat.Remap
+<sub><sup>ARCHITECTURE: fLoat.Remap</sup></sub>
 
-NOMENCLATURE: x64
+<sub><sup>NOMENCLATURE: x64</sup></sub>
 
-SYSTEM: Windows 10
+<sub><sup>SYSTEM: Windows 10</sup></sub>
 
 
-<sub><sup>combining the two tags</sup></sub>
+
 
 ⠀⠀⠀
 
