@@ -7,8 +7,8 @@ The "Core" engine is powered by vbscript, powershell, batch, and C#.
 
 
 ### <p align="center"> <sub><sup>_ENGINE_ INFORMATION</sup></sub></p>
-| <sub><sup>CURRENT VERSION</sup></sub>  | Second Header |  Second Header  | Second Header |
-| ------------- | ------------- |
+| CURRENT VERSION  | Second Header |  Second Header  | Second Header |
+| -------------------- | -------------------- |
 | 1.09-1.90  | Content Cell  |
 | Content Cell  | Content Cell  |
 
